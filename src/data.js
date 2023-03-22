@@ -1,0 +1,7 @@
+
+export default [{"_id":"63cd9a37060bd76a3f4df3ae","flight_id":"63cd9575060bd76a3f4df39e","date":"2023-01-23 01:49:03.166944","detect":6,"main_url":"https://drone-detect.s3.us-east-1.amazonaws.com/GOPR0078.JPG63cd9575060bd76a3f4df39e","__v":0},
+{"_id":"63cd9a37060bd76a3f4df3ad","flight_id":"63cd9575060bd76a3f4df39e","date":"2023-01-23 01:48:47.906296","detect":4,"main_url":"https://drone-detect.s3.us-east-1.amazonaws.com/GOPR0077.JPG63cd9575060bd76a3f4df39e","__v":0},
+{"_id":"63cd9a37060bd76a3f4df3ac","flight_id":"63cd9575060bd76a3f4df39e","date":"2023-01-23 01:48:32.012420","detect":15,"main_url":"https://drone-detect.s3.us-east-1.amazonaws.com/GOPR0076.JPG63cd9575060bd76a3f4df39e","__v":0},
+{"_id":"63cd9b9b060bd76a3f4df3b2","flight_id":"63cd9575060bd76a3f4df39e","date":"2023-01-23 01:54:59.196962","detect":6,"main_url":"https://drone-detect.s3.us-east-1.amazonaws.com/63cd9575060bd76a3f4df39eGOPR0078.JPG","__v":0},
+{"_id":"63cd9b9b060bd76a3f4df3b0","flight_id":"63cd9575060bd76a3f4df39e","date":"2023-01-23 01:54:27.195455","detect":15,"main_url":"https://drone-detect.s3.us-east-1.amazonaws.com/63cd9575060bd76a3f4df39eGOPR0076.JPG","__v":0},
+{"_id":"63cd9b9b060bd76a3f4df3b1","flight_id":"63cd9575060bd76a3f4df39e","date":"2023-01-23 01:54:43.168499","detect":4,"main_url":"https://drone-detect.s3.us-east-1.amazonaws.com/63cd9575060bd76a3f4df39eGOPR0077.JPG","__v":0}]
